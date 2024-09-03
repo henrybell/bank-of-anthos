@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-project_id = "bank-of-anthos-ci"
+project_id = "henrybell-argolis-boa-7"
 region     = "us-central1"
 zone       = "us-central1-b"
 
